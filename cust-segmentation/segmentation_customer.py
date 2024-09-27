@@ -81,3 +81,4 @@ eda(data);
 cleaned_data = data_clean(data);
 data_preprocess(data);
 define_cluster_bin(cleaned_data)
+visualization(cleaned_data);
